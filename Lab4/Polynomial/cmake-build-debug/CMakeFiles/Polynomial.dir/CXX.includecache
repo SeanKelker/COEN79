@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seankelker/Workspace/COEN79/Lab4/Polynomial/poly.cpp
+poly.h
+/Users/seankelker/Workspace/COEN79/Lab4/Polynomial/poly.h
+math.h
+-
+string
+-
+
+/Users/seankelker/Workspace/COEN79/Lab4/Polynomial/poly.h
+iostream
+-
+

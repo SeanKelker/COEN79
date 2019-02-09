@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seankelker/Workspace/COEN79/Lab4/KeyedBag/keyed_bag.cpp
+keyed_bag.h
+/Users/seankelker/Workspace/COEN79/Lab4/KeyedBag/keyed_bag.h
+
+/Users/seankelker/Workspace/COEN79/Lab4/KeyedBag/keyed_bag.h
+cstdlib
+-
+string
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seankelker/Workspace/COEN79/Lab2/statistician/statistician.cpp
+statistician.h
+/Users/seankelker/Workspace/COEN79/Lab2/statistician/statistician.h
+
+/Users/seankelker/Workspace/COEN79/Lab2/statistician/statistician.h
+iostream
+-
+
