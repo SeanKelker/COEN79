@@ -69,10 +69,6 @@ namespace coen79_lab4 {
     }
 
 
-
-
-
-
     unsigned int polynomial::degree() const {
 
         unsigned int i;
