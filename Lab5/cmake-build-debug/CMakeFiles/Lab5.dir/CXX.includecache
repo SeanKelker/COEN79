@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seankelker/Workspace/COEN79/Lab5/mystring.cpp
+mystring.h
+/Users/seankelker/Workspace/COEN79/Lab5/mystring.h
+iostream
+-
+string.h
+-
+
+/Users/seankelker/Workspace/COEN79/Lab5/mystring.h
+cstdlib
+-
+iostream
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/seankelker/Workspace/COEN79/Lab6/node.cpp
+node.h
+/Users/seankelker/Workspace/COEN79/Lab6/node.h
+cassert
+-
+cstdlib
+-
+iostream
+-
+
+/Users/seankelker/Workspace/COEN79/Lab6/node.h
+cstdlib
+-
+

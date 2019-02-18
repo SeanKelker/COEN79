@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Lab5" targetName="Lab5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1c0f967-06d2-4d67-aaa7-1e62ad1d48ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystring.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mystring.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tester.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/node.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/node.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/node_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/seq_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/sequence.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/sequence.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/sequence_exam.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/Polynomial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/Polynomial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/Polynomial/poly.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/Polynomial/poly.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="358440117">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="5" />
+          <entry key="h" value="3" />
+          <entry key="ostream" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="3749" />
+          <entry key="h" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="3798" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.58055556">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/mystring.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="178">
+                  <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#44#65#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mystring.h">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2130">
+                  <caret line="142" column="15" selection-start-line="142" selection-start-column="15" selection-end-line="142" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#4708#4746#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/tester.cpp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="112" selection-start-line="112" selection-end-line="112" />
+                  <folding>
+                    <element signature="e#100#119#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>allo</find>
+      <find>&lt;&lt;</find>
+      <find>inser</find>
+      <find>reser</find>
+      <find>[</find>
+      <find>==</find>
+      <find>dlt</find>
+      <find>dl</find>
+      <find>+=</find>
+      <find>\/\/\n\/\/ Created by Sean Kelker on 2\/9\/19\.\n\/\/\n\n\#include \&quot;mystring\.h\&quot;\n\#include \&lt;iostream\&gt;\n\#include \&lt;string\.h\&gt;\n\n\nusing namespace std\;\n\nnamespace coen79_lab5 \{\n\n    string\:\:string\(const char \*str\) \{\n\n        current_length \= strlen \(str\)\;\n        assert \(str\[current_length\] \=\= \'\\0\'\)\;\n\n        characters \= new char\[current_length \+ 1\]\;\n        for \(int i \= 0\; i \&lt; current_length\; i\+\+\) \{\n            characters\[i\] \= str\[i\]\;\n        \}\n\n        allocated \= current_length \+ 1\;\n\n    \}\n\n    string\:\:string\(char c\) \{\n\n        current_length \= 1\;\n\n        characters \= new char\[current_length \+ 1\]\;\n        characters\[0\] \= c\;\n        characters\[1\] \= \'\\0\'\;\n\n        allocated \= current_length \+ 1\;\n\n    \}\n\n    string\:\:string\(const string \&amp;source\) \{\n\n        current_length \= source\.current_length\;\n\n        characters \= new char\[source\.allocated\]\;\n        for \(int i \= 0\; i \&lt; current_length\; i\+\+\) \{\n            characters\[i\] \= source\.characters\[i\]\;\n        \}\n\n        allocated \= source\.allocated\;\n\n    \}\n\n    string\:\:\~string\(\) \{\n\n        delete \[\] characters\;\n\n    \}\n\n    void string\:\:operator\+\=\(const string \&amp;addend\) \{\n\n        if\(allocated \&lt; current_length\+addend\.current_length\)\{\n            reserve \(current_length\+addend\.current_length\+1\)\;\n        \}\n\n        for\(int i\=0\; i\&lt;addend\.current_length\+1\;i\+\+\)\{\n            characters\[current_length\+i\] \= addend\.characters\[i\]\;\n        \}\n\n        current_length \= current_length \+ addend\.current_length\;\n        characters\[current_length\+1\] \= \'\\0\'\;\n\n    \}\n\n    void string\:\:operator\+\=\(const char \*addend\) \{\n\n        \*this \+\= string\(addend\)\;\n\n    \}\n\n    void string\:\:operator\+\=\(char addend\) \{\n\n        \*this \+\= string\(addend\)\;\n\n    \}\n\n    void string\:\:reserve\(size_t n\) \{\n\n        char \*tmp \= new char\[n\]\;\n        copy \(characters\, characters \+ n\, tmp\)\;\n        delete\[\] characters\;\n        characters \= tmp\;\n        allocated \= n\;\n\n    \}\n\n    string \&amp;string\:\:operator\=\(const string \&amp;source\) \{\n\n        current_length \= source\.length \(\)\;\n        reserve \(source\.allocated\)\;\n        copy\(source\.characters\,source\.characters\+source\.current_length\+1\,characters\)\;\n        return \*this\;\n\n    \}\n\n    void string\:\:insert\(const string \&amp;source\, unsigned int position\) \{\n        assert\(position \&lt;\= length\(\)\)\;\n        string front\, back\;\n\n        for\(int i\=0\;i\&lt;current_length\;i\+\+\)\{\n            if\(i\&lt;position\)\{\n                front \+\= string\(characters\[i\]\)\;\n            \} else\{\n                back \+\= string\(characters\[i\]\)\;\n            \}\n        \}\n\n        \*this \= front \+ source \+ back\;\n\n    \}\n\n    void string\:\:dlt\(unsigned int position\, unsigned int num\) \{\n        assert \(\(position \+ num\) \&lt;\= length\( \)\)\;\n\n        string front\;\n        for\(int i\=0\;i\&lt;current_length\;i\+\+\)\{\n            if\(i\&lt;position \|\| i\&gt;position\+num\)\{\n                front \+\= string\(characters\[i\]\)\;\n            \}\n        \}\n\n        \*this \= front\;\n\n    \}\n\n    void string\:\:replace\(char c\, unsigned int position\) \{\n        assert \(position \&lt; length\(\)\)\;\n        characters\[position\] \= c\;\n    \}\n\n    void string\:\:replace\(const string \&amp;source\, unsigned int position\) \{\n        assert\(position \+ source\.length\(\) \&lt;\= length\(\)\)\;\n        for\(int i \= 0\; i \&lt; source\.length\(\)\; i\+\+\)\{\n            replace\(source\[i\]\, i\+position\)\;\n        \}\n\n    \}\n\n    char string\:\:operator\[\]\(size_t position\) const \{\n\n        assert \(position \&lt; length\( \)\)\;\n        return characters\[position\]\;\n\n    \}\n\n    int string\:\:search\(char c\) const \{\n        for\(int i \= 0\;i\&lt;current_length\;i\+\+\)\{\n            if\(characters\[i\] \=\= c\)\{\n                return i\;\n            \}\n        \}\n        return \-1\;\n    \}\n\n    int string\:\:search\(const string \&amp;substring\) const \{\n        for \(size_t i \= 0\; i \&lt; current_length\; i\+\+\)\n        \{\n            if\(\*\(characters \+ i\) \=\= substring\[0\]\)\n            \{\n                bool flag \= 1\;\n                for\(size_t j \= 0\; j \&lt; substring\.length\(\)\; j\+\+\)\n                \{\n                    if\(\*\(characters \+ i \+ j\) \!\= substring\[j\]\) flag \= 0\;\n                \}\;\n                if\(flag\) return i\;\n            \}\;\n        \}\;\n        return \-1\;\n\n    \}\n\n    unsigned int string\:\:count\(char c\) const \{\n        size_t count \= 0\;\n        for\(int i\=0\; i\&lt;current_length\;i\+\+\)\{\n            if\(characters\[i\] \=\= c\)\{\n                count\+\+\;\n            \}\n        \}\n        return count\;\n    \}\n\n    std\:\:ostream \&amp;operator\&lt;\&lt;\(std\:\:ostream \&amp;outs\, const string \&amp;source\) \{\n\n        outs \&lt;\&lt; source\.characters\;\n        return outs\;\n\n    \}\n\n    bool operator\=\=\(const string \&amp;s1\, const string \&amp;s2\) \{\n\n        if\(strncmp\(s1\.characters\,s2\.characters\, 30\) \=\= 0\)\{\n            return true\;\n        \} else\{\n            return false\;\n        \}\n\n    \}\n\n    bool operator\!\=\(const string \&amp;s1\, const string \&amp;s2\) \{\n        return \!\(s1 \=\= s2\)\;\n    \}\n\n    bool operator\&gt;\(const string \&amp;s1\, const string \&amp;s2\) \{\n        if\(strncmp\(s1\.characters\,s2\.characters\, 30\) \&gt; 0\)\{\n            return true\;\n        \} else\{\n            return false\;\n        \}\n    \}\n\n    bool operator\&lt;\(const string \&amp;s1\, const string \&amp;s2\) \{\n        return \!\(s1 \&gt;\= s2\)\;\n    \}\n\n    bool operator\&gt;\=\(const string \&amp;s1\, const string \&amp;s2\) \{\n        if\(strcmp\(s1\.characters\,s2\.characters\) \&gt;\= 0\)\{\n            return true\;\n        \} else\{\n            return false\;\n        \}\n    \}\n\n    bool operator\&lt;\=\(const string \&amp;s1\, const string \&amp;s2\) \{\n        return \!\(s1 \&gt; s2\)\;\n    \}\n\n    string operator\+\(const string \&amp;s1\, const string \&amp;s2\) \{\n\n       string new_string \= string\(s1\)\;\n       new_string \+\= s2\;\n       return new_string\;\n\n    \}\n\n    string coen79_lab5\:\:operator\+\(const string \&amp;s1\, const char \*addend\) \{\n\n        string new_string \= string\(s1\)\;\n        new_string \+\= string\(addend\)\;\n        return new_string\;\n\n    \}\n\n    istream \&amp;operator\&gt;\&gt;\(istream \&amp;ins\, string \&amp;target\) \{\n\n        char \*tmp \= new char\[1000\]\;\n        cin \&gt;\&gt; tmp\;\n        target \= string\(tmp\)\;\n\n        return ins\;\n    \}\n\n\}</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/mystring.h" />
+        <option value="$PROJECT_DIR$/tester.cpp" />
+        <option value="$PROJECT_DIR$/mystring.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lab5">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab5" TARGET_NAME="Lab5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab5" RUN_TARGET_NAME="Lab5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Lab5" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1c0f967-06d2-4d67-aaa7-1e62ad1d48ca" name="Default Changelist" comment="" />
+      <created>1549757646296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549757646296</updated>
+      <workItem from="1549757648241" duration="2524000" />
+      <workItem from="1550003259364" duration="20818000" />
+      <workItem from="1550083709956" duration="2470000" />
+      <workItem from="1550271538550" duration="4169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29981000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75416666" weight="0.32902467" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49791667" weight="0.39952996" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.24583334" side_tool="true" visible="true" weight="0.32902467" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32079905" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48680556" weight="0.32902467" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/tester.h" />
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/ostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12840">
+          <caret line="862" column="1" lean-forward="true" selection-start-line="862" selection-start-column="1" selection-end-line="862" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystring.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="15" selection-start-line="142" selection-start-column="15" selection-end-line="142" selection-end-column="15" />
+          <folding>
+            <element signature="e#4708#4746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tester.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="e#100#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mystring.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#44#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
